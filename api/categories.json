@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category_name":"Sweets",
+        "img":"https://i.ibb.co/Jvn8gYg/sweets-categ-400x500.jpg"
+    },
+    {
+        "id":2,
+        "category_name":"Burger",
+        "img":"https://i.ibb.co/D84spRG/burger-categ-400x500.jpg"
+    },
+    {
+        "id":3,
+        "category_name":"Drinks",
+        "img":"https://i.ibb.co/cYY5DMB/drinks-categ-400x500.jpg"
+    },
+    {
+        "id":4,
+        "category_name":"Pizza",
+        "img":"https://i.ibb.co/xqRgV3q/pizza-categ-400x500.jpg"
+    }
+]

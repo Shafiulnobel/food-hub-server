@@ -1,0 +1,239 @@
+[
+    {
+        "id": "1",
+        "chef_name": "John Smith",
+        "chef_img": "https://i.ibb.co/K7qxRSC/bluebird-provisions-l-RAWc-T7uwh-Y-unsplash.png",
+        "experience": 2,
+        "number_of_recipes": 3,
+        "likes": 150,
+        "food_categories": [
+            {
+                "category_id": "1",
+                "category_name": "Italian",
+                "category_description": "Delicious Italian cuisine.",
+                "category_img": "https://i.ibb.co/jMK7fXL/recipe-massaman-soup-1-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            },
+            {
+                "category_id": "2",
+                "category_name": "Mexican",
+                "category_description": "Spicy and flavorful Mexican dishes.",
+                "category_img": "https://i.ibb.co/T1LD9JS/recipes-05-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            },
+            {
+                "category_id": "3",
+                "category_name": "Asian",
+                "category_description": "Tasty Asian flavors.",
+                "category_img": "https://i.ibb.co/hXFm0ZC/recipes-21-500x500.jpg",
+                "ingredient_1":"chicken breasts",
+                "ingredient_2":"fresh vegetables",
+                "ingredient_3":"2 cloves garlic",
+                "ingredient_4":"fresh ginger",
+                "ingredient_5":"chili flakes "
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "chef_name": "Michael Johnson",
+        "chef_img": "https://i.ibb.co/xzPGfZK/brooke-cagle-Wf-V4-Kscvv-BQ-unsplash.png",
+        "experience": 3,
+        "number_of_recipes": 4,
+        "likes": 125,
+        "food_categories": [
+            {
+                "category_id": "1",
+                "category_name": "Italian",
+                "category_description": "Delicious Italian cuisine.",
+                "category_img": "https://i.ibb.co/bP8ZZWj/recipes-30-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            },
+            {
+                "category_id": "2",
+                "category_name": "Mexican",
+                "category_description": "Spicy and flavorful Mexican dishes.",
+                "category_img": "https://i.ibb.co/T1LD9JS/recipes-05-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            },
+            {
+                "category_id": "3",
+                "category_name": "Asian",
+                "category_description": "Tasty Asian flavors.",
+                "category_img": "https://i.ibb.co/dPFn0nL/recipe-lobster-author-1-500x500.jpg",
+                "ingredient_1":"chicken breasts",
+                "ingredient_2":"fresh vegetables",
+                "ingredient_3":"2 cloves garlic",
+                "ingredient_4":"fresh ginger",
+                "ingredient_5":"chili flakes "
+            },
+            {
+                "category_id": "4",
+                "category_name": "American",
+                "category_description": "Tasty American flavors.",
+                "category_img": "https://i.ibb.co/cQYY5LW/homemade-chocolate-cake-1-500x500.jpg",
+                "ingredient_1":"Ground beef",
+                "ingredient_2":"Hamburger buns",
+                "ingredient_3":"Optional toppings",
+                "ingredient_4":"Potatoes",
+                "ingredient_5":"Salt and pepper"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "chef_name": "David Brown",
+        "chef_img": "https://i.ibb.co/LDTJ9YT/derrick-pare-ok-Pdc-D03-F7g-unsplash.png",
+        "experience": 1,
+        "number_of_recipes": 2,
+        "likes": 110,
+        "food_categories": [
+            {
+                "category_id": "1",
+                "category_name": "Italian",
+                "category_description": "Delicious Italian cuisine.",
+                "category_img": "https://i.ibb.co/dPFn0nL/recipe-lobster-author-1-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            },
+            {
+                "category_id": "2",
+                "category_name": "Mexican",
+                "category_description": "Spicy and flavorful Mexican dishes.",
+                "category_img": "https://i.ibb.co/cQYY5LW/homemade-chocolate-cake-1-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "chef_name": "James Davis",
+        "chef_img": "https://i.ibb.co/y8pbC5q/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.png",
+        "experience": 5,
+        "number_of_recipes": 2,
+        "likes": 130,
+        "food_categories": [
+            {
+                "category_id": "1",
+                "category_name": "Italian",
+                "category_description": "Delicious Italian cuisine.",
+                "category_img": "https://i.ibb.co/cQYY5LW/homemade-chocolate-cake-1-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            },
+            {
+                "category_id": "2",
+                "category_name": "Mexican",
+                "category_description": "Spicy and flavorful Mexican dishes.",
+                "category_img": "https://i.ibb.co/dPFn0nL/recipe-lobster-author-1-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "chef_name": "Robert Wilson",
+        "chef_img": "https://i.ibb.co/Pt18tmg/jouwen-wang-5-u7-C5gy8r4-unsplash.png",
+        "experience": 4,
+        "number_of_recipes": 3,
+        "likes": 125,
+        "food_categories": [
+            {
+                "category_id": "1",
+                "category_name": "Italian",
+                "category_description": "Delicious Italian cuisine.",
+                "category_img": "https://i.ibb.co/bP8ZZWj/recipes-30-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            },
+            {
+                "category_id": "2",
+                "category_name": "Mexican",
+                "category_description": "Spicy and flavorful Mexican dishes.",
+                "category_img": "https://i.ibb.co/T1LD9JS/recipes-05-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+        },
+            {
+                "category_id": "3",
+                "category_name": "Asian",
+                "category_description": "Tasty Asian flavors.",
+                "category_img": "https://i.ibb.co/dPFn0nL/recipe-lobster-author-1-500x500.jpg",
+                "ingredient_1":"chicken breasts",
+                "ingredient_2":"fresh vegetables",
+                "ingredient_3":"2 cloves garlic",
+                "ingredient_4":"fresh ginger",
+                "ingredient_5":"chili flakes "
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "chef_name": "William Jones",
+        "chef_img": "https://i.ibb.co/fYxT2Yt/venti-views-XHGTrx2cl-As-unsplash.png",
+        "experience": 2,
+        "number_of_recipes": 2,
+        "likes": 100,
+        "food_categories": [
+            {
+                "category_id": "1",
+                "category_name": "Italian",
+                "category_description": "Delicious Italian cuisine.",
+                "category_img": "https://i.ibb.co/cQYY5LW/homemade-chocolate-cake-1-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            
+            },
+            {
+                "category_id":"2",
+                "category_name": "Mexican",
+                "category_description": "Spicy and flavorful Mexican dishes.",
+                "category_img": "https://i.ibb.co/dPFn0nL/recipe-lobster-author-1-500x500.jpg",
+                "ingredient_1":"200g of spaghetti",
+                "ingredient_2":"100g of guanciale",
+                "ingredient_3":"2 large eggs",
+                "ingredient_4":"50g of  cheese",
+                "ingredient_5":"black pepper"
+            }
+        ]
+    }
+]

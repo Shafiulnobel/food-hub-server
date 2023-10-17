@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "short":"Allergens, Dinner",
+        "title":"Allergens to Watch Out For",
+        "description":"At dinner, it's vital to acknowledge allergens like nuts, dairy, and gluten to accommodate dietary restrictions. Prioritizing allergen awareness ensures a safe and inclusive dining experience for all guests. Always inquire about allergies to make the meal enjoyable and worry-free.",
+        "img":"https://i.ibb.co/KWQrvcg/blog-pic01-625x375.jpg"
+    },
+    {
+        "id":"2",
+        "short":"Cook, Dinner",
+        "title":"15 Vegan Roast Alternatives",
+        "description":"At dinner, it's vital to acknowledge allergens like nuts, dairy, and gluten to accommodate dietary restrictions. Prioritizing allergen awareness ensures a safe and inclusive dining experience for all guests. Always inquire about allergies to make the meal enjoyable and worry-free.",
+        "img":"https://i.ibb.co/YfHW5bL/blogpost03-625x375.jpg"
+    },
+    {
+        "id":"3",
+        "short":"Kitchen, Tools",
+        "title":"Why your Tools are So",
+        "description":"At dinner, it's vital to acknowledge allergens like nuts, dairy, and gluten to accommodate dietary restrictions. Prioritizing allergen awareness ensures a safe and inclusive dining experience for all guests. Always inquire about allergies to make the meal enjoyable and worry-free.",
+        "img":"https://i.ibb.co/4gvQV3D/blogpost04-625x375.jpg"
+    },
+    {
+        "id":"4",
+        "short":"Restaurant, Vegan",
+        "title":"Cafe Restaurant Relax",
+        "description":"At dinner, it's vital to acknowledge allergens like nuts, dairy, and gluten to accommodate dietary restrictions. Prioritizing allergen awareness ensures a safe and inclusive dining experience for all guests. Always inquire about allergies to make the meal enjoyable and worry-free.",
+        "img":"https://i.ibb.co/stp3zCQ/blogrecipes-10-625x375.jpg"
+    }
+]
